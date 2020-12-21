@@ -1,0 +1,9 @@
+{
+    "localhost": "http://wp-test.loc:8091/",
+    "css": "../wp-content/themes/maxi/assets/css",
+    "wathing": {
+        "css": "assets/scss/**/*.scss",
+        "js": "assets/js/**/*.js",
+        "php": "../wp-content/themes/maxi/**/*.php"
+    }
+}

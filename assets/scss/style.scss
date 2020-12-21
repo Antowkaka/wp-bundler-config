@@ -1,0 +1,11 @@
+.test {
+    text-align: center;
+
+    & p {
+        align-items: baseline;
+    }
+}
+
+.test2 {
+    padding: 0;
+}
